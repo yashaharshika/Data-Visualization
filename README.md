@@ -6,6 +6,8 @@ This repository contains my coursework for the Data Visualization class. It incl
 
 **How can individuals identify universities aligned with their academic, personal, and career interests?**
 
+## Implementation
+
 This question is explored from three perspectives:
 1. Prospect International Student
 2. Prospect Faculty Member
