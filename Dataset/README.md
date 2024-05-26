@@ -1,0 +1,25 @@
+# Dataset Dictionary
+
+The dataset used in this project consists of the following features:
+
+1. **Institution**: Name of university (Nominal)
+2. **Country**: Country of university (Nominal)
+3. **Continent**: Continent of university (Nominal)
+4. **Crime Index**: Crime Index of country (Numerical - Float)
+5. **CWUR Rank**: University rank (Ordinal)
+6. **THE Rank**: University rank (Ordinal)
+7. **Education Rank**: Education rank of university (Ordinal)
+8. **Employability Rank**: Employability rank of university (Ordinal)
+9. **Faculty Rank**: Faculty rank of university (Ordinal)
+10. **Research Rank**: Research rank of university (Ordinal)
+11. **QS Rank**: University rank (Ordinal)
+12. **Institute Size**: Size of university (Nominal)
+13. **Employer Reputation Score**: Reputation score of employer (Numerical - Float)
+14. **Employer Reputation Rank**: Reputation rank of employer (Ordinal)
+15. **Faculty Student Score**: Faculty student score (Numerical - Float)
+16. **Faculty Student Rank**: Faculty student rank (Ordinal)
+17. **Citations per Faculty Score**: Number of citations by faculty (Numerical - Float)
+18. **International Faculty Score**: International faculty score (Numerical - Float)
+19. **International Students Score**: International student score (Numerical - Float)
+20. **International Research Network Score**: Contribution of International faulty in research (Numerical - Float)
+21. **Employability Outcome Score**: Number of student employed (Numerical - Float)
