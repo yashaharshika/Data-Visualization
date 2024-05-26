@@ -1,4 +1,4 @@
-# Data Visualization Coursework Repository
+# Predicting Universities
 
 This repository contains my coursework for the Data Visualization class. It includes projects created using Google Data Studio and Tableau. Each project folder contains detailed documentation, reports, and links to the live dashboards.
 
