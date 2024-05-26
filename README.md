@@ -1,6 +1,6 @@
 # Data Visualization Coursework Repository
 
-This repository contains my coursework for the Data Visualization class. It includes projects created using Google Data Studio, Tableau, and Power BI. Each project folder contains detailed documentation, reports, and links to the live dashboards.
+This repository contains my coursework for the Data Visualization class. It includes projects created using Google Data Studio and Tableau. Each project folder contains detailed documentation, reports, and links to the live dashboards.
 
 ## Research Question
 
