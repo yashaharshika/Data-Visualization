@@ -1,14 +1,9 @@
-# Data Visualization Coursework Repository
+# International Prospect Student
 
-This repository contains my coursework for the Data Visualization class. It includes projects created using Google Data Studio, Tableau, and Power BI. Each project folder contains detailed documentation, reports, and links to the live dashboards.
+This project aims to create dashboards to help international prospect students identify universities aligned with their interests. The dashboards are made using Tableau, Looker Studio (Google Data Studio), and Power BI.
 
-## Research Question
-
-**How can individuals identify universities aligned with their academic, personal, and career interests?**
-
-This question is explored from three perspectives:
-1. Prospect International Student
-2. Prospect Faculty Member
-3. Employer
-
-The analysis for each perspective is implemented using Tableau, Looker Studio (Google Data Studio), and Power BI.
+## Research Questions
+1. How does the distribution of international student scores vary across different regions of the world?
+2. What is the relationship between regional university rankings and international student outcomes, considering faculty-student scores?
+3. Within each continent, which institute ranks among the top 10 for employability outcome score?
+4. Using a Packed Bubble Chart, with Crime Index as the label and number of institutes as the size, how does safety perception vary among countries?
