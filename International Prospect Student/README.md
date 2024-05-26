@@ -1,6 +1,6 @@
 # International Prospect Student
 
-This project aims to create dashboards to help international prospect students identify universities aligned with their interests. The dashboards are made using Tableau, Looker Studio (Google Data Studio), and Power BI.
+This project aims to create dashboards to help international prospect students identify universities aligned with their interests. The dashboards are made using Tableau and Looker Studio (Google Data Studio).
 
 ## Research Questions
 1. How does the distribution of international student scores vary across different regions of the world?
