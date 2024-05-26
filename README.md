@@ -9,8 +9,8 @@ This repository contains my coursework for the Data Visualization class. It incl
 ## Implementation
 
 This question is explored from three perspectives:
-1. Prospect International Student
+1. International Prospect Student
 2. Prospect Faculty Member
 3. Employer
 
-The analysis for each perspective is implemented using Tableau, Looker Studio (Google Data Studio), and Power BI.
+The analysis for each perspective is implemented using Tableau and Looker Studio (Google Data Studio).
